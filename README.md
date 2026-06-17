@@ -20,7 +20,7 @@ The repository serves as a record of my learning journey in Natural Language Pro
 * Advanced Neural Networks for NLP
 * Ethics and Bias in NLP
 
-## Repository Structure
+
 
 ## Tools and Libraries
 
@@ -35,7 +35,4 @@ Throughout this course, I will be working with:
 * Hugging Face Transformers
 * Pandas and NumPy
 
-## Author
 
-**Ana Jane**
-BSc Data Science and Analytics
